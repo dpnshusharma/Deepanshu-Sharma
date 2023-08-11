@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 
+- 👨‍💻I'm experienced in **Cybersecurity,Linux,Google Cloud Platforms**
+
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 📫 How to reach me **dpnshucc@gmail.com**
