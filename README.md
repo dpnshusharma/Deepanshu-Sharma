@@ -1,6 +1,6 @@
 # Deepanshu-Sharma
 <h1 align="center">Hi 👋, I'm Deepanshu Sharma</h1>
-<h3 align="center">Pre Final Year B.Tech IT Student</h3>
+<h3 align="center">Final Year B.Tech IT Student</h3>
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 
